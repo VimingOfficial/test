@@ -1,0 +1,6 @@
+print("-------------------")
+print("|                 |")
+print("| Amirali         |")
+print("|        Poyanrad |")
+print("|                 |")
+print("-------------------")
